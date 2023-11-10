@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#test-container {
+    text-align: center;
+}
+
+#typing-input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#results {
+    margin-top: 20px;
+}
